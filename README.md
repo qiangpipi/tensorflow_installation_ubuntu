@@ -37,4 +37,4 @@ echo "export PATH=${PATH}:${HOME}/bin"
 ```
 bazel build -c opt //tensorflow/tools/pip_package:build_pip_package
 ```
->>That's really take time if the network is pool...
+>>That's really take time if the network is pool... And damned GFW. Please give up installation if you don't hava vpn or ladder. To try and run tensorFlow in docker. The tensorFlow official image can be found in the docker official repository.
