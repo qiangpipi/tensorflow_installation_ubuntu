@@ -2,6 +2,7 @@
 ###All the process can be found from:   
 [Tensorflow os setup](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/g3doc/get_started/os_setup.md)
 
+For Chinese, if you can't break out the GFW, there is only one way to get and use tensorflow by docker. The official image can be found in the docker official registry.   
 
 ###Update python related packages.   
 ```
